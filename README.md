@@ -6,3 +6,8 @@
 
 
 + [x] GCN_01_what_GCN_is
+
+---
+
+## [TBD] 2020-Fall GNN Online Course
+https://www.youtube.com/channel/UC_YPrqpiEqkeGOG1TCt0giQ/playlists
